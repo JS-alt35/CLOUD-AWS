@@ -3,7 +3,7 @@ name: Construir y subir imagen Spring Boot
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   docker:
